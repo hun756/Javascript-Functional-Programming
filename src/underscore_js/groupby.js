@@ -1,3 +1,4 @@
+"use strict";
 const { _, groupBy } = require('underscore');
 
 (function () {

@@ -1,3 +1,4 @@
+"use strict";
 const { _, where, findWhere } = require('underscore');
 
 

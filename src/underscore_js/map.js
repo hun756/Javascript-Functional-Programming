@@ -1,3 +1,4 @@
+"use strict";
 const { _ , map} = require('underscore');
 
 let arr = [1, 2, 3];

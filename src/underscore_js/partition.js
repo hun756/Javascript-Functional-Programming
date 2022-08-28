@@ -1,5 +1,4 @@
 "use strict";
-
 const { _, partition } = require("underscore");
 
 (function () {

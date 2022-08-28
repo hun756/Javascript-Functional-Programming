@@ -1,3 +1,4 @@
+"use strict";
 const { _, every } = require('underscore');
 
 (function () {

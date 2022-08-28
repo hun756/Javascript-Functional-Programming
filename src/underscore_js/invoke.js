@@ -1,3 +1,4 @@
+"use strict";
 const { _, invoke } = require('underscore');
 
 (function () {

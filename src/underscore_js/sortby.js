@@ -1,3 +1,4 @@
+"use strict";
 const { _, sortBy } = require('underscore');
 
 (function () {

@@ -1,5 +1,4 @@
 "use strict";
-
 const { _, compact } = require("underscore");
 
 (function () {

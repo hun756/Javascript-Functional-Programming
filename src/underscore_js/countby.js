@@ -1,5 +1,4 @@
 "use strict";
-
 const { _, countBy } = require("underscore");
 
 (function () {

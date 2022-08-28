@@ -1,3 +1,4 @@
+"use strict";
 const {_, filter} = require('underscore');
 
 (function () {

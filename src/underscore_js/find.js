@@ -1,3 +1,4 @@
+"use strict";
 const {_, find} = require('underscore');
 
 (function () {

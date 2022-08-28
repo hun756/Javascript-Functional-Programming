@@ -1,3 +1,4 @@
+"use strict";
 const { _, reduce, reduceRight } = require('underscore');
 
 (function () {

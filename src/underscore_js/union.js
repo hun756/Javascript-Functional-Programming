@@ -1,5 +1,4 @@
 "use strict";
-
 const { _, union } = require("underscore");
 
 (function () {

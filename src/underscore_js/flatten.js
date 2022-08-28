@@ -1,5 +1,4 @@
 "use strict";
-
 const { _, flatten } = require("underscore");
 
 (function () {

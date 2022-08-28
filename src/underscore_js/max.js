@@ -1,3 +1,4 @@
+"use strict";
 const { _, max } = require('underscore');
 
 (function () {
